@@ -5,7 +5,7 @@ title: "Components series"
 excerpt: "Some words here"
 thumbnail: assets/img/Collection01.jpg
 ---
-![Components1 Sculpture](/assets/img/Collection01.jpg){:class="img-responsive"}
+![Components1 Sculpture](/assets/img/Components_series_01.jpg){:class="img-responsive"}
 *Components Series*
 
 I tend to cast the parts in batches with only a vague notion of what form and colour the final piece will take. This means I have a range of options from which to choose when making the final piece.

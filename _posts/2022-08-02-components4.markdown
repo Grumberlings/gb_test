@@ -1,16 +1,15 @@
 ---
 layout: post
 title:  "Components 4"
-date:   2022-08-02 16:28:24 +0100
+date:   2022-08-04 16:28:24 +0100
 categories: jekyll update
 series: "Components"
-thumbnail: assets\img\Green T Junctions 01.jpg
+thumbnail: assets/img/Components04/Components04_Thumb.jpg
 ---
 This peice was the third of my components series where I use a series of hand made parts to construct a unique one off sculpture.
 
-![Components 4 Sculpture](/assets\img\Green T Junctions 01.jpg){:class="img-responsive"}
-*Components 4*
+![Components 4 Sculpture](/assets/img/Components04/Components04_01.jpg){:class="img-responsive"}
 
-Usually a sculptor makes a unique 'master' from which they cast a series of copies.
+![Components 4 Sculpture](/assets/img/Components04/Components04_02.jpg){:class="img-responsive"}
 
-I reverse this and create a suite of repeating parts that I can combine into a series of 'one off' pieces.
+![Components 4 Sculpture](/assets/img/Components04/Components04_03.jpg){:class="img-responsive"}

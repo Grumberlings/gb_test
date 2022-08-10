@@ -1,0 +1,22 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.sass",
+		"_sass/styles.sass",
+		"_sass/0-base/0-base_dir.sass",
+		"_sass/1-modules/1-modules_dir.sass",
+		"_sass/2-layouts/2-layouts_dir.sass",
+		"_sass/2-layouts/series.sass"
+	],
+	"sourcesContent": [
+		"@import \"styles\";\n",
+		"@import \"0-base/0-base_dir\";\n@import \"1-modules/1-modules_dir\";\n@import \"2-layouts/2-layouts_dir\";\n",
+		"",
+		"",
+		"@import \"series\";\n",
+		"/**\n * Series\n */\n.post-thumbnail-image {\n    width: 200px;\n    height: 200px;\n    margin-right: 10px;\n    object-fit: cover;\n    float: left; }\n\n.my-clearfix {\n  content: \"\";\n  display: table;\n  clear: both; }\n"
+	],
+	"names": [],
+	"mappings": "AKAA,aAEG;AACH,AAAA,qBAAqB,CAAC,EAClB,KAAK,EAAE,KAAK,EACZ,MAAM,EAAE,KAAK,EACb,YAAY,EAAE,IAAI,EAClB,UAAU,EAAE,KAAK,EACjB,KAAK,EAAE,IAAI,GAAG;;AAElB,AAAA,YAAY,CAAC,EACX,OAAO,EAAE,EAAE,EACX,OAAO,EAAE,KAAK,EACd,KAAK,EAAE,IAAI,GAAG"
+}

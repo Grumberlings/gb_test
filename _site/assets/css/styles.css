@@ -1,0 +1,6 @@
+/** Series */
+.post-thumbnail-image { width: 200px; height: 200px; margin-right: 10px; object-fit: cover; float: left; }
+
+.my-clearfix { content: ""; display: table; clear: both; }
+
+/*# sourceMappingURL=styles.css.map */
