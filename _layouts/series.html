@@ -1,0 +1,46 @@
+---
+layout: page
+---
+<Link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/styles.css">
+<div>
+
+    {{ content }}
+  
+</div>
+
+  {%- if site.posts.size > 0 -%}
+
+  <ul class="post-list">
+    
+    {%- for post in site.posts -%}
+    {% if post.series == page.series%}
+    
+    <li>
+      {%- if post.thumbnail -%}
+      <a href="{{ post.url | relative_url }}">
+        <img src="{{- post.thumbnail | relative_url -}}" alt="" class="post-thumbnail-image">
+      </a>
+    {%- else -%}
+      {%- assign postImage = "assets/img/Rings02.jpg" -%}
+      <a href="{{ post.url | relative_url }}">
+        <img src="{{- postImage | relative_url -}}" alt="" class="post-thumbnail-image">
+      </a>
+    {%- endif -%}
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+      {%- if site.show_excerpts -%}
+        {{ post.excerpt }}
+      {%- endif -%}
+      <div class="my-clearfix"></div>
+
+    </li>
+    {%- endif -%}
+    {%- endfor -%}
+    
+  </ul>
+
+
+{%- endif -%}
