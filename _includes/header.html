@@ -24,7 +24,7 @@
               {%- endif -%}
             {%- endfor -%}
             --> 
-            {%- for link in site.data.links -%}
+            {%- for link in site.data.links -%} <!--Got rid of the default links based on pages above and replaced with data file-->
             {%- assign my_link = link -%}
             {%- if my_link.text -%}
             <a class="page-link" href="{{ my_link.url | relative_url }}" target="{{ my_link.target }}">{{ my_link.text| escape }}</a>

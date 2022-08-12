@@ -3,7 +3,7 @@ layout: "series"
 series: "Components"
 title: "Components series"
 excerpt: "Some words here"
-thumbnail: assets/img/Collection01.jpg
+thumbnail: assets/img/Components_series_01.jpg
 ---
 ![Components1 Sculpture](/assets/img/Components_series_01.jpg){:class="img-responsive"}
 *Components Series*
