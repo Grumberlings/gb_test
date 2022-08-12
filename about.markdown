@@ -6,21 +6,17 @@ permalink: /about/
 
 # History
 
-Graham Brooks was trained in Industrial Design at Newcastle Polytechnic and obtained a masters in Industrial Design at Birmingham Polytehcnic. During the 90s he designing site specific sculptural lighting for restaurants and bars. He moved into the burgoning 3D computer graphics arena producing 3D computer animation. He took a post as a researcher at the University of Nottingham producing real-time graphics for virtual reality and 'serious games'. He was one of the founding members of Mission Room Ltd. a company formed to take the research into the industrial world.
+Graham Brooks was trained in Industrial Design at Newcastle Polytechnic and obtained a master’s in Industrial Design at Birmingham Polytechnic. Based in London during the 90s he created site-specific sculptural lighting designs for restaurants and bars. He next moved into the CGI arena producing 3D computer animation for video and TV.  This led to a research post at the University of Nottingham using real-time graphics for virtual reality and ‘serious games’. As one of the founding members of Mission Room Ltd. he spent the next decade transforming this research into applications for industry.
 
 # Artist Statement
 
-Graham Brooks uses repeating cast components and contrasting organic elements to explore ideas around the artificiality, perminance and ownership.
+Graham Brooks uses repeating components and contrasting organic elements to explore ideas around artificiality, permanence, ownership, and waste.
 
-Fasinated by the effect of wear objects and how these marks of making and use suggest traces of a human presence on our often sterile and unyielding surroundings. 
+His work also focuses on the effect of wear on objects and these marks of making and use can suggest traces of a human presence on sterile and unyielding products.
 
-Using a series of component parts as a starting point he works in plaster polymer and felt to give a physical presence what is natural, what is man made? What are the positive and negative aspects 
+Using a series of component parts as a starting point he works in plaster polymer and felt to give a physical presence to the question of what is natural and what is artificial?
 
-Fascinated by the containing function of the vessel and its connotations with the human body, where external surface and shape are often the defining characteristics rather than what is contained; she plays with these aspects trying to destabilise or reinforce them.
+He uses a process led, material-based practice where the hands-on act of making is integral. The unique and hand-made is important. The slow repetitive process of making each ‘master’ component and the unplanned act of bringing the finished into being contrasts with the visual language of design for mass manufacture.
 
-Often working in sequence, she is interested in how we view the individual as a distinct entity and what happens when it becomes part of a group or a larger whole. Do we perceive its inherent characteristics or those relative to what is around it?
-
-The unique and hand-made is important as it acts as a counterpoint to the visual refernces to mass manufacture and the effemeral. 
-He uses a process led, material based practice where the hands on act of making is integral. The slow repetitive process of working with components is important, contrasting with the visual language of mass manufactuer.
 
 

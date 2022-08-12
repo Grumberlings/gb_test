@@ -14,3 +14,8 @@ thumbnail: assets/img/Components04/Components04_Thumb.jpg
 ![Components 4 Sculpture](/assets/img/Components04/Components04_02.jpg){:class="img-responsive"}
 
 ![Components 4 Sculpture](/assets/img/Components04/Components04_03.jpg){:class="img-responsive"}
+*Photomontage simulating installation at Yorkshire Sculpture Park*
+
+Hand made from non-toxic plaster polymer and pigment. Durable and weather proof.
+
+w: 200 mm h: 200 mm , weight 2kg

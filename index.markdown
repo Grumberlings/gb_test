@@ -6,3 +6,4 @@ layout: home
 list_title: Recent
 ---
 ![Components4 Sculpture at Yorkshire Sculpture Park](/assets/img/YSP-Montage.jpg){:class="img-responsive"}
+## Unique hand-made objects: Natural:Artificial Permenant:Ephemeral

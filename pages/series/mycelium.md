@@ -7,6 +7,7 @@ thumbnail: assets/img/Mycelium_thumb.jpg
 ---
 
 ![Mycelium Sculptures](/assets/img/Mycelium_series_01.jpg){:class="img-responsive"}
-*Mycelium Series*
 
-Mycelium are a mass of branched, tubular filaments of fungi. Essential for healthy soils and plant growth they also break down dead vegatable matter. I find this ambiguity interesting. Are the fibres helpful or destructive, friendly or threatening? I have used felted lambswool to represent these 'natural' elements that interact with the hard plaster polmer cast components. 
+Mycelium are a mass of branched, tubular filaments of fungi. Essential for healthy soils and plant growth they also break down dead vegatable matter.
+
+Felted lambswool represents these 'natural' elements and sit in contrast to the hard cast plaster polymer component parts. Are the fibres helpful or destructive, friendly or threatening? 
