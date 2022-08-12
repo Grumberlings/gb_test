@@ -6,7 +6,6 @@ categories: jekyll update
 series: "Components"
 thumbnail: assets/img/Components05/Components05_Thumb.jpg
 ---
-This peice was the third of my components series where I use a series of hand made parts to construct a unique one off sculpture.
 
 ![Components 5 Sculpture](/assets/img/Components05/Components05_01.jpg){:class="img-responsive"}
 

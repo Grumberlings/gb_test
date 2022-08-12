@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<Link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/styles.css">
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
@@ -10,20 +10,35 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Recent" }}</h2>
     <ul class="post-list">
       {% for post in site.posts %}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <!--<span class="post-meta">{{ post.date | date: date_format }}</span>-->
+        {%- if post.thumbnail -%}
+        <a href="{{ post.url | relative_url }}">
+          <img src="{{- post.thumbnail | relative_url -}}" alt="" class="post-thumbnail-image">
+        </a>
+        {%- else -%}
+          {%- assign pageImage = "assets/img/Rings02.jpg" -%}
+          <a href="{{ page.url | relative_url }}">
+            <img src="{{- pageImage | relative_url -}}" alt="" class="post-thumbnail-image">
+          </a>
+        {%- endif -%}
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         </h3>
+        <!--
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
+        -->
+        {%- if post.feed-excerpt -%}
+          {{ post.feed-excerpt }}
+        {%- endif -%}
+        <div class="my-clearfix"></div>
       </li>
       {%- endfor -%}
     </ul>

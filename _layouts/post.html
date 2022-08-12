@@ -9,10 +9,15 @@ layout: default
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
+        <!--{{ page.date | date: date_format }}-->
       </time>
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+      {%- endif -%}</p>
+      {%- if page.price and page.store-url -%}
+      <a href="https://grahambrooks.sumupstore.com/product/{{ page.store-url }}" target="_blank">
+        <button class="rounded-button purchase-button">{{- page.price }} Purchase</button>
+      </a>
       {%- endif -%}</p>
   </header>
 
