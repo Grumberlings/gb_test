@@ -10,13 +10,13 @@ Graham Brooks was trained in Industrial Design at Newcastle Polytechnic and obta
 
 # Artist Statement
 
-Graham Brooks uses repeating components and contrasting organic elements to explore ideas around artificiality, permanence, ownership, and waste.
+Graham Brooks uses repeating elements and contrasting materials to explore ideas around artificiality, permanence, ownership, and waste.
 
-His work also focuses on the effect of wear on objects and these marks of making and use can suggest traces of a human presence on sterile and unyielding products.
+He is also interested in the effect of wear on objects and how marks of making and using leave traces of a human presence.
 
-Using a series of component parts as a starting point he works in plaster polymer and felt to give a physical presence to the question of what is natural and what is artificial?
+Using a series of component parts as a starting point he works in plaster polymer and felt to give a physical presence to the question of what is natural and what is artificial in a world of sterile and unyielding products.
 
-He uses a process led, material-based practice where the hands-on act of making is integral. The unique and hand-made is important. The slow repetitive process of making each ‘master’ component and the unplanned act of bringing the finished into being contrasts with the visual language of design for mass manufacture.
+He uses a process led, material-based practice where the hands-on act of making is integral. The unique and hand-made is important. The slow repetitive process of making each ‘master’ component and the spontaneous act of assembly plays with the process of design, mass manufacture and consumption.
 
 
 

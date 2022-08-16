@@ -14,9 +14,9 @@ layout: default
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}</p>
-      {%- if page.price and page.store-url -%}
+      {%- if page.store-url -%}
       <a href="https://grahambrooks.sumupstore.com/product/{{ page.store-url }}" target="_blank">
-        <button class="rounded-button purchase-button">{{- page.price }} Purchase</button>
+        <button class="rounded-button purchase-button">View in Store</button>
       </a>
       {%- endif -%}</p>
   </header>

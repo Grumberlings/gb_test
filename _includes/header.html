@@ -5,7 +5,7 @@
       {%- assign page_paths = site.header_pages | default: default_paths -%}
       <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
       {%- if page_paths -%}
-        <nav class="site-nav">
+        <nav class="site-nav" style="z-index: 1200">
           <input type="checkbox" id="nav-trigger" class="nav-trigger" />
           <label for="nav-trigger">
             <span class="menu-icon">
@@ -15,7 +15,7 @@
             </span>
           </label>
   
-          <div class="trigger">
+          <div class="trigger" style="z-index: 1000">
            <!--
             {%- for path in page_paths -%}
               {%- assign my_page = site.pages | where: "path", path | first -%}
@@ -27,7 +27,7 @@
             {%- for link in site.data.links -%} <!--Got rid of the default links based on pages above and replaced with data file-->
             {%- assign my_link = link -%}
             {%- if my_link.text -%}
-            <a class="page-link" href="{{ my_link.url | relative_url }}" target="{{ my_link.target }}">{{ my_link.text| escape }}</a>
+            <a class="page-link" style="z-index: 1100;" href="{{ my_link.url | relative_url }}" target="{{ my_link.target }}">{{ my_link.text| escape }}</a>
             {%- endif -%}
           {%- endfor -%}
           </div>
