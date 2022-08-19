@@ -13,6 +13,6 @@
 - text: "Contact"
   url: "pages/contact.html"
   target: "_self"
-- text: "Store"
-  url: "https://grahambrooks.sumupstore.com"
+- text: "Shop"
+  url: "https://shop.grahambrooks.co.uk"
   target: "_blank"
