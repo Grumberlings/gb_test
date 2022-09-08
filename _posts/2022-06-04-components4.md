@@ -4,8 +4,9 @@ title:  "Components 4"
 date:   2022-06-04 16:28:24 +0100
 categories: jekyll update
 series: "Components"
-price: £350 
-store-url: components-4
+price:
+store-url: 
+home-thumb: assets/img/Components04/Components04_01.jpg
 thumbnail: assets/img/Components04/Components04_Thumb.jpg
 ---
 

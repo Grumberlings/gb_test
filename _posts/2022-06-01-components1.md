@@ -4,8 +4,9 @@ title:  "Components 1"
 date:   2022-06-01 16:28:24 +0100
 categories: jekyll update
 series: Components
-price: £90 
-store-url: components-1
+price:
+store-url:
+home-thumb: assets/img/Components01/Components01_01.jpg
 thumbnail: assets/img/Components01/Components01_Thumb.jpg
 ---
 
