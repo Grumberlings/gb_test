@@ -9,34 +9,35 @@ home-thumb: assets/img/Components07/Components07_08.jpg
 thumbnail: assets/img/Components07/Components07_Thumb.jpg
 ---
 ![Components 6 Sculpture](/assets/img/Components07/Components07_11.jpg){:class="img-responsive"}
-*Components 7 a and b*
 
+<!--
 ![Components 7a Sculpture](/assets/img/Components07/Components07a_02.jpg){:class="img-responsive"}
-*Components 7a*
 
 ![Components 7a Sculpture](/assets/img/Components07/Components07a_01.jpg){:class="img-responsive"}
-*Components 7a*
 
 ![Components 7b Sculpture](/assets/img/Components07/Components07b_02.jpg){:class="img-responsive"}
-*Components 7b*
 
 ![Components 7b Sculpture](/assets/img/Components07/Components07b_01.jpg){:class="img-responsive"}
-*Components 7b*
+-->
 
 ![Components 6 Sculpture](/assets/img/Components07/Components07_06.jpg){:class="img-responsive"}
-*Components a and b*
+
 
 ![Components 6 Sculpture](/assets/img/Components07/Components07_08.jpg){:class="img-responsive"}
-*Components a and b*
 
-![Components 6 Sculpture](/assets/img/Components07/Components07_09.jpg){:class="img-responsive"}
-*Components a and b*
+
 
 ![Components 6 Sculpture](/assets/img/Components07/Components07_10.jpg){:class="img-responsive"}
-*Components a and b*
+
+<!--
+
+![Components 6 Sculpture](/assets/img/Components07/Components07_09.jpg){:class="img-responsive"}
+
 
 ![Components 7 Sculpture](/assets/img/Components07/Components07_04.jpg){:class="img-responsive"}
-*Components a and b*
+
+
+-->
 
 
 

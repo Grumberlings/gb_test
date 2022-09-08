@@ -1,97 +1,75 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-08T13:38:03+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Graham Brooks</title><subtitle>© 2022 Graham Brooks - All rights reserved</subtitle><entry><title type="html">Components 7</title><link href="http://localhost:4000/jekyll/update/2022/08/30/components7.html" rel="alternate" type="text/html" title="Components 7" /><published>2022-08-30T16:28:24+01:00</published><updated>2022-08-30T16:28:24+01:00</updated><id>http://localhost:4000/jekyll/update/2022/08/30/components7</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/08/30/components7.html"><![CDATA[<p><img src="/assets/img/Components07/Components07_11.jpg" alt="Components 6 Sculpture" class="img-responsive" />
-<em>Components 7 a and b</em></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-08T15:10:55+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Graham Brooks</title><subtitle>© 2022 Graham Brooks - All rights reserved</subtitle><entry><title type="html">Components 7</title><link href="http://localhost:4000/jekyll/update/2022/08/30/components7.html" rel="alternate" type="text/html" title="Components 7" /><published>2022-08-30T16:28:24+01:00</published><updated>2022-08-30T16:28:24+01:00</updated><id>http://localhost:4000/jekyll/update/2022/08/30/components7</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/08/30/components7.html"><![CDATA[<p><img src="/assets/img/Components07/Components07_11.jpg" alt="Components 6 Sculpture" class="img-responsive" /></p>
 
-<p><img src="/assets/img/Components07/Components07a_02.jpg" alt="Components 7a Sculpture" class="img-responsive" />
-<em>Components 7a</em></p>
+<!--
+![Components 7a Sculpture](/assets/img/Components07/Components07a_02.jpg){:class="img-responsive"}
 
-<p><img src="/assets/img/Components07/Components07a_01.jpg" alt="Components 7a Sculpture" class="img-responsive" />
-<em>Components 7a</em></p>
+![Components 7a Sculpture](/assets/img/Components07/Components07a_01.jpg){:class="img-responsive"}
 
-<p><img src="/assets/img/Components07/Components07b_02.jpg" alt="Components 7b Sculpture" class="img-responsive" />
-<em>Components 7b</em></p>
+![Components 7b Sculpture](/assets/img/Components07/Components07b_02.jpg){:class="img-responsive"}
 
-<p><img src="/assets/img/Components07/Components07b_01.jpg" alt="Components 7b Sculpture" class="img-responsive" />
-<em>Components 7b</em></p>
+![Components 7b Sculpture](/assets/img/Components07/Components07b_01.jpg){:class="img-responsive"}
+-->
 
-<p><img src="/assets/img/Components07/Components07_06.jpg" alt="Components 6 Sculpture" class="img-responsive" />
-<em>Components a and b</em></p>
+<p><img src="/assets/img/Components07/Components07_06.jpg" alt="Components 6 Sculpture" class="img-responsive" /></p>
 
-<p><img src="/assets/img/Components07/Components07_08.jpg" alt="Components 6 Sculpture" class="img-responsive" />
-<em>Components a and b</em></p>
+<p><img src="/assets/img/Components07/Components07_08.jpg" alt="Components 6 Sculpture" class="img-responsive" /></p>
 
-<p><img src="/assets/img/Components07/Components07_09.jpg" alt="Components 6 Sculpture" class="img-responsive" />
-<em>Components a and b</em></p>
+<p><img src="/assets/img/Components07/Components07_10.jpg" alt="Components 6 Sculpture" class="img-responsive" /></p>
 
-<p><img src="/assets/img/Components07/Components07_10.jpg" alt="Components 6 Sculpture" class="img-responsive" />
-<em>Components a and b</em></p>
+<!--
 
-<p><img src="/assets/img/Components07/Components07_04.jpg" alt="Components 7 Sculpture" class="img-responsive" />
-<em>Components a and b</em></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Components 7 a and b]]></summary></entry><entry><title type="html">Mycelium 6</title><link href="http://localhost:4000/jekyll/update/2022/07/06/mycelium6.html" rel="alternate" type="text/html" title="Mycelium 6" /><published>2022-07-06T16:28:24+01:00</published><updated>2022-07-06T16:28:24+01:00</updated><id>http://localhost:4000/jekyll/update/2022/07/06/mycelium6</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/07/06/mycelium6.html"><![CDATA[<p><img src="/assets/img/Mycelium06/Mycelium06_02.jpg" alt="Mycelium 6 Sculpture" class="img-responsive" />
-<em>Mycelium 6</em></p>
+![Components 6 Sculpture](/assets/img/Components07/Components07_09.jpg){:class="img-responsive"}
 
-<p><img src="/assets/img/Mycelium06/Mycelium06_03.jpg" alt="Mycelium 6 Sculpture" class="img-responsive" />
-<em>Mycelium 6</em></p>
 
-<p><img src="/assets/img/Mycelium06/Mycelium06_04.jpg" alt="Mycelium 6 Sculpture" class="img-responsive" />
-<em>Mycelium 6</em></p>
+![Components 7 Sculpture](/assets/img/Components07/Components07_04.jpg){:class="img-responsive"}
 
-<p><img src="/assets/img/Mycelium06/Mycelium06_06.jpg" alt="Mycelium 6 Sculpture" class="img-responsive" />
-<em>Mycelium 6</em></p>
 
-<p><img src="/assets/img/Mycelium06/Mycelium06_05.jpg" alt="Mycelium 6 Sculpture" class="img-responsive" />
-<em>Mycelium 6</em></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Mycelium 6]]></summary></entry><entry><title type="html">Mycelium 7</title><link href="http://localhost:4000/jekyll/update/2022/07/06/mycelium7.html" rel="alternate" type="text/html" title="Mycelium 7" /><published>2022-07-06T16:28:24+01:00</published><updated>2022-07-06T16:28:24+01:00</updated><id>http://localhost:4000/jekyll/update/2022/07/06/mycelium7</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/07/06/mycelium7.html"><![CDATA[<p><img src="/assets/img/Mycelium07/Mycelium07_04.jpg" alt="Mycelium 7 Sculpture" class="img-responsive" /></p>
+-->]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Mycelium 6</title><link href="http://localhost:4000/jekyll/update/2022/07/06/mycelium6.html" rel="alternate" type="text/html" title="Mycelium 6" /><published>2022-07-06T16:28:24+01:00</published><updated>2022-07-06T16:28:24+01:00</updated><id>http://localhost:4000/jekyll/update/2022/07/06/mycelium6</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/07/06/mycelium6.html"><![CDATA[<p><img src="/assets/img/Mycelium06/Mycelium06_02.jpg" alt="Mycelium 6 Sculpture" class="img-responsive" /></p>
+
+<p><img src="/assets/img/Mycelium06/Mycelium06_03.jpg" alt="Mycelium 6 Sculpture" class="img-responsive" /></p>
+
+<p><img src="/assets/img/Mycelium06/Mycelium06_04.jpg" alt="Mycelium 6 Sculpture" class="img-responsive" /></p>
+
+<p><img src="/assets/img/Mycelium06/Mycelium06_06.jpg" alt="Mycelium 6 Sculpture" class="img-responsive" /></p>
+
+<p><img src="/assets/img/Mycelium06/Mycelium06_05.jpg" alt="Mycelium 6 Sculpture" class="img-responsive" /></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Mycelium 7</title><link href="http://localhost:4000/jekyll/update/2022/07/06/mycelium7.html" rel="alternate" type="text/html" title="Mycelium 7" /><published>2022-07-06T16:28:24+01:00</published><updated>2022-07-06T16:28:24+01:00</updated><id>http://localhost:4000/jekyll/update/2022/07/06/mycelium7</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/07/06/mycelium7.html"><![CDATA[<p><img src="/assets/img/Mycelium07/Mycelium07_04.jpg" alt="Mycelium 7 Sculpture" class="img-responsive" /></p>
 
 <p><img src="/assets/img/Mycelium07/Mycelium07_05.jpg" alt="Mycelium 7 Sculpture" class="img-responsive" /></p>
 
 <p><img src="/assets/img/Mycelium07/Mycelium07_07.jpg" alt="Mycelium 7 Sculpture" class="img-responsive" /></p>
 
-<p><img src="/assets/img/Mycelium07/Mycelium07_01.jpg" alt="Mycelium 7 Sculpture" class="img-responsive" /></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Mycelium 5</title><link href="http://localhost:4000/jekyll/update/2022/07/05/mycelium5.html" rel="alternate" type="text/html" title="Mycelium 5" /><published>2022-07-05T16:28:24+01:00</published><updated>2022-07-05T16:28:24+01:00</updated><id>http://localhost:4000/jekyll/update/2022/07/05/mycelium5</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/07/05/mycelium5.html"><![CDATA[<p><img src="/assets/img/Mycelium05/Mycelium05_01.jpg" alt="Mycelium 5 Sculpture" class="img-responsive" />
-<em>Mycelium 5</em></p>
+<p><img src="/assets/img/Mycelium07/Mycelium07_01.jpg" alt="Mycelium 7 Sculpture" class="img-responsive" /></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Mycelium 5</title><link href="http://localhost:4000/jekyll/update/2022/07/05/mycelium5.html" rel="alternate" type="text/html" title="Mycelium 5" /><published>2022-07-05T16:28:24+01:00</published><updated>2022-07-05T16:28:24+01:00</updated><id>http://localhost:4000/jekyll/update/2022/07/05/mycelium5</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/07/05/mycelium5.html"><![CDATA[<p><img src="/assets/img/Mycelium05/Mycelium05_01.jpg" alt="Mycelium 5 Sculpture" class="img-responsive" /></p>
 
-<p><img src="/assets/img/Mycelium05/Mycelium05_06.jpg" alt="Mycelium 5 Sculpture" class="img-responsive" />
-<em>Mycelium 5</em></p>
+<p><img src="/assets/img/Mycelium05/Mycelium05_03.jpg" alt="Mycelium 5 Sculpture" class="img-responsive" /></p>
 
-<p><img src="/assets/img/Mycelium05/Mycelium05_03.jpg" alt="Mycelium 5 Sculpture" class="img-responsive" />
-<em>Mycelium 5</em></p>
+<p><img src="/assets/img/Mycelium05/Mycelium05_04.jpg" alt="Mycelium 5 Sculpture" class="img-responsive" /></p>
 
-<p><img src="/assets/img/Mycelium05/Mycelium05_04.jpg" alt="Mycelium 5 Sculpture" class="img-responsive" />
-<em>Mycelium 5</em></p>
+<p><img src="/assets/img/Mycelium05/Mycelium05_05.jpg" alt="Mycelium 5 Sculpture" class="img-responsive" /></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Mycelium 4</title><link href="http://localhost:4000/jekyll/update/2022/07/04/mycelium4.html" rel="alternate" type="text/html" title="Mycelium 4" /><published>2022-07-04T16:28:24+01:00</published><updated>2022-07-04T16:28:24+01:00</updated><id>http://localhost:4000/jekyll/update/2022/07/04/mycelium4</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/07/04/mycelium4.html"><![CDATA[<p><img src="/assets/img/Mycelium04/Mycelium04_01.jpg" alt="Mycelium 4 Sculpture" class="img-responsive" /></p>
 
-<p><img src="/assets/img/Mycelium05/Mycelium05_05.jpg" alt="Mycelium 5 Sculpture" class="img-responsive" />
-<em>Mycelium 5</em></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Mycelium 5]]></summary></entry><entry><title type="html">Mycelium 4</title><link href="http://localhost:4000/jekyll/update/2022/07/04/mycelium4.html" rel="alternate" type="text/html" title="Mycelium 4" /><published>2022-07-04T16:28:24+01:00</published><updated>2022-07-04T16:28:24+01:00</updated><id>http://localhost:4000/jekyll/update/2022/07/04/mycelium4</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/07/04/mycelium4.html"><![CDATA[<p><img src="/assets/img/Mycelium04/Mycelium04_01.jpg" alt="Mycelium 4 Sculpture" class="img-responsive" />
-<em>Mycelium 4</em></p>
+<p><img src="/assets/img/Mycelium04/Mycelium04_02.jpg" alt="Mycelium 4 Sculpture" class="img-responsive" /></p>
 
-<p><img src="/assets/img/Mycelium04/Mycelium04_02.jpg" alt="Mycelium 4 Sculpture" class="img-responsive" />
-<em>Mycelium 4</em></p>
+<p><img src="/assets/img/Mycelium04/Mycelium04_04.jpg" alt="Mycelium 4 Sculpture" class="img-responsive" /></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Mycelium 3</title><link href="http://localhost:4000/jekyll/update/2022/07/03/mycelium3.html" rel="alternate" type="text/html" title="Mycelium 3" /><published>2022-07-03T16:28:24+01:00</published><updated>2022-07-03T16:28:24+01:00</updated><id>http://localhost:4000/jekyll/update/2022/07/03/mycelium3</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/07/03/mycelium3.html"><![CDATA[<p><img src="/assets/img/Mycelium03/Mycelium03_01.jpg" alt="Mycelium 3 Sculpture" class="img-responsive" /></p>
 
-<p><img src="/assets/img/Mycelium04/Mycelium04_03.jpg" alt="Mycelium 4 Sculpture" class="img-responsive" />
-<em>Mycelium 4</em></p>
+<p><img src="/assets/img/Mycelium03/Mycelium03_02.jpg" alt="Mycelium 3 Sculpture" class="img-responsive" /></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Mycelium 2</title><link href="http://localhost:4000/jekyll/update/2022/07/02/mycelium2.html" rel="alternate" type="text/html" title="Mycelium 2" /><published>2022-07-02T16:28:24+01:00</published><updated>2022-07-02T16:28:24+01:00</updated><id>http://localhost:4000/jekyll/update/2022/07/02/mycelium2</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/07/02/mycelium2.html"><![CDATA[<p><img src="/assets/img/Mycelium02/Mycelium02_01.jpg" alt="Mycelium 2 Sculpture" class="img-responsive" /></p>
 
-<p><img src="/assets/img/Mycelium04/Mycelium04_04.jpg" alt="Mycelium 4 Sculpture" class="img-responsive" />
-<em>Mycelium 4</em></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Mycelium 4]]></summary></entry><entry><title type="html">Mycelium 3</title><link href="http://localhost:4000/jekyll/update/2022/07/03/mycelium3.html" rel="alternate" type="text/html" title="Mycelium 3" /><published>2022-07-03T16:28:24+01:00</published><updated>2022-07-03T16:28:24+01:00</updated><id>http://localhost:4000/jekyll/update/2022/07/03/mycelium3</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/07/03/mycelium3.html"><![CDATA[<p><img src="/assets/img/Mycelium03/Mycelium03_01.jpg" alt="Mycelium 3 Sculpture" class="img-responsive" />
-<em>Mycelium 3</em></p>
+<p><img src="/assets/img/Mycelium02/Mycelium02_02.jpg" alt="Mycelium 2 Sculpture" class="img-responsive" /></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Mycelium 1</title><link href="http://localhost:4000/jekyll/update/2022/07/01/mycelium1.html" rel="alternate" type="text/html" title="Mycelium 1" /><published>2022-07-01T16:28:24+01:00</published><updated>2022-07-01T16:28:24+01:00</updated><id>http://localhost:4000/jekyll/update/2022/07/01/mycelium1</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/07/01/mycelium1.html"><![CDATA[<p><img src="/assets/img/Mycelium01/Mycelium01_01.jpg" alt="Mycelium 3 Sculpture" class="img-responsive" /></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Components 6</title><link href="http://localhost:4000/jekyll/update/2022/06/06/components6.html" rel="alternate" type="text/html" title="Components 6" /><published>2022-06-06T16:28:24+01:00</published><updated>2022-06-06T16:28:24+01:00</updated><id>http://localhost:4000/jekyll/update/2022/06/06/components6</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/06/06/components6.html"><![CDATA[<p><img src="/assets/img/Components06/Components06_01.jpg" alt="Components 6 Sculpture" class="img-responsive" /></p>
 
-<p><img src="/assets/img/Mycelium03/Mycelium03_02.jpg" alt="Mycelium 3 Sculpture" class="img-responsive" />
-<em>Mycelium 3</em></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Mycelium 3]]></summary></entry><entry><title type="html">Mycelium 2</title><link href="http://localhost:4000/jekyll/update/2022/07/02/mycelium2.html" rel="alternate" type="text/html" title="Mycelium 2" /><published>2022-07-02T16:28:24+01:00</published><updated>2022-07-02T16:28:24+01:00</updated><id>http://localhost:4000/jekyll/update/2022/07/02/mycelium2</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/07/02/mycelium2.html"><![CDATA[<p><img src="/assets/img/Mycelium02/Mycelium02_01.jpg" alt="Mycelium 2 Sculpture" class="img-responsive" />
-<em>Mycelium 2</em></p>
+<!--
+![Components 6 Sculpture](/assets/img/Components06/Components06_02.jpg){:class="img-responsive"}
+-->
+<p><img src="/assets/img/Components06/Components06_03.jpg" alt="Components 6 Sculpture" class="img-responsive" />
+<!--
+![Components 6 Sculpture](/assets/img/Components06/Components06_04.jpg){:class="img-responsive"}
+-->
+<img src="/assets/img/Components06/Components06_05.jpg" alt="Components 6 Sculpture" class="img-responsive" /></p>
 
-<p><img src="/assets/img/Mycelium02/Mycelium02_02.jpg" alt="Mycelium 2 Sculpture" class="img-responsive" />
-<em>Mycelium 2</em></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Mycelium 2]]></summary></entry><entry><title type="html">Mycelium 1</title><link href="http://localhost:4000/jekyll/update/2022/07/01/mycelium1.html" rel="alternate" type="text/html" title="Mycelium 1" /><published>2022-07-01T16:28:24+01:00</published><updated>2022-07-01T16:28:24+01:00</updated><id>http://localhost:4000/jekyll/update/2022/07/01/mycelium1</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/07/01/mycelium1.html"><![CDATA[<p><img src="/assets/img/Mycelium01/Mycelium01_01.jpg" alt="Mycelium 3 Sculpture" class="img-responsive" />
-<em>Mycelium 1</em></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Mycelium 1]]></summary></entry><entry><title type="html">Components 6</title><link href="http://localhost:4000/jekyll/update/2022/06/06/components6.html" rel="alternate" type="text/html" title="Components 6" /><published>2022-06-06T16:28:24+01:00</published><updated>2022-06-06T16:28:24+01:00</updated><id>http://localhost:4000/jekyll/update/2022/06/06/components6</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/06/06/components6.html"><![CDATA[<p><img src="/assets/img/Components06/Components06_01.jpg" alt="Components 6 Sculpture" class="img-responsive" /></p>
+<!--
+![Components 6 Sculpture](/assets/img/Components06/Components06_06.jpg){:class="img-responsive"}
 
-<p><img src="/assets/img/Components06/Components06_02.jpg" alt="Components 6 Sculpture" class="img-responsive" /></p>
+![Components 6 Sculpture](/assets/img/Components06/Components06_07.jpg){:class="img-responsive"}
 
-<p><img src="/assets/img/Components06/Components06_03.jpg" alt="Components 6 Sculpture" class="img-responsive" /></p>
-
-<p><img src="/assets/img/Components06/Components06_04.jpg" alt="Components 6 Sculpture" class="img-responsive" /></p>
-
-<p><img src="/assets/img/Components06/Components06_05.jpg" alt="Components 6 Sculpture" class="img-responsive" /></p>
-
-<p><img src="/assets/img/Components06/Components06_06.jpg" alt="Components 6 Sculpture" class="img-responsive" /></p>
-
-<p><img src="/assets/img/Components06/Components06_07.jpg" alt="Components 6 Sculpture" class="img-responsive" /></p>
-
-<p><img src="/assets/img/Components06/Components06_08.jpg" alt="Components 6 Sculpture" class="img-responsive" /></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Components 5</title><link href="http://localhost:4000/jekyll/update/2022/06/05/components5.html" rel="alternate" type="text/html" title="Components 5" /><published>2022-06-05T16:28:24+01:00</published><updated>2022-06-05T16:28:24+01:00</updated><id>http://localhost:4000/jekyll/update/2022/06/05/components5</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/06/05/components5.html"><![CDATA[<p><img src="/assets/img/Components05/Components05_01.jpg" alt="Components 5 Sculpture" class="img-responsive" /></p>
+![Components 6 Sculpture](/assets/img/Components06/Components06_08.jpg){:class="img-responsive"}
+-->]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Components 5</title><link href="http://localhost:4000/jekyll/update/2022/06/05/components5.html" rel="alternate" type="text/html" title="Components 5" /><published>2022-06-05T16:28:24+01:00</published><updated>2022-06-05T16:28:24+01:00</updated><id>http://localhost:4000/jekyll/update/2022/06/05/components5</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/06/05/components5.html"><![CDATA[<p><img src="/assets/img/Components05/Components05_01.jpg" alt="Components 5 Sculpture" class="img-responsive" /></p>
 
 <p><img src="/assets/img/Components05/Components05_02.jpg" alt="Components 5 Sculpture" class="img-responsive" /></p>
 
