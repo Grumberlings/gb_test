@@ -6,8 +6,8 @@ categories: jekyll update
 series: "Components"
 price:
 store-url: 
-home-thumb: assets/img/Components04/Components04_01.jpg
-thumbnail: assets/img/Components04/Components04_Thumb.jpg
+home-thumb: assets/img/Components04/small/Components04_01.jpg
+thumbnail: assets/img/Components04/small/Components04_01.jpg
 ---
 
 ![Components 4 Sculpture](/assets/img/Components04/Components04_01.jpg){:class="img-responsive"}

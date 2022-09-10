@@ -5,8 +5,8 @@ date:   2022-06-06 16:28:24 +0100
 categories: jekyll update
 series: "Components"
 store-url:
-home-thumb: assets/img/Components06/Components06_03.jpg
-thumbnail: assets/img/Components06/Components06_Thumb.jpg
+home-thumb:
+thumbnail: assets/img/Components06/small/Components06_03.jpg
 ---
 
 ![Components 6 Sculpture](/assets/img/Components06/Components06_01.jpg){:class="img-responsive"}

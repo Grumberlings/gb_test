@@ -8,6 +8,71 @@ layout: page
   
 </div>
 
+{% assign homePosts = "" | split: ',' %}
+
+{% for post in site.posts %}
+  {%- if post.series == page.series -%}
+  {%- capture homePost -%}
+    {{ post.thumbnail }}|{{ post.url}}
+  {%- endcapture -%}
+    {%- assign homePosts = homePosts | push: homePost -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{% assign Col1Posts = "" | split: ',' %}
+{% assign Col2Posts = "" | split: ',' %}
+{% assign Col3Posts = "" | split: ',' %}
+
+{%- assign colCounter = 1 -%}
+
+{%- for hPost in homePosts -%}
+{%- if colCounter == 1 -%}
+    {% assign Col1Posts = Col1Posts | push: hPost -%}
+    {% assign colCounter = 2 -%}
+  {%- else -%}
+  {%- if colCounter == 2 -%}
+    {%- assign Col2Posts = Col2Posts | push: hPost -%}
+    {%- assign colCounter = 3 -%}
+    {%- else -%}
+    {%- assign Col3Posts = Col3Posts | push: hPost -%}
+    {%- assign colCounter = 1 -%}
+  {%- endif -%}  
+{%- endif -%}
+{%- endfor -%} 
+
+<!--<h1 class="page-heading">{{ homePosts }}</h1>-->
+
+<div class="row">
+
+  <div class="column">
+    {%- for cPost in Col1Posts -%}
+      {% assign Cp = cPost | split: '|' %}
+      <a href="{{ Cp [1] }}">
+      <img src="{{ Cp [0] | relative_url}}">
+      </a>
+    {%- endfor -%}
+  </div>
+  <div class="column">
+    {%- for cPost in Col2Posts -%}
+      {% assign Cp = cPost | split: '|' %}
+      <a href="{{ Cp[1] }}">
+      <img src="{{ Cp[0] | relative_url}}">
+      </a>
+    {%- endfor -%}
+  </div>
+  <div class="column">
+    {%- for cPost in Col3Posts -%}
+      {% assign Cp = cPost | split: '|' %}
+      <a href="{{ Cp[1] }}">
+      <img src="{{ Cp[0] | relative_url }}">
+      </a>
+    {%- endfor -%}
+  </div>
+  
+</div>
+
+
+<!--
   {%- if site.posts.size > 0 -%}
 
   <ul class="post-list">
@@ -30,10 +95,8 @@ layout: page
         <a class="post-link" href="{{ post.url | relative_url }}">
           {{ post.title | escape }}
         </a>
-      </h3><!--
-      {%- if site.show_excerpts -%}
-        {{ post.excerpt }}
-      {%- endif -%}-->
+      </h3>
+
       <div class="my-clearfix"></div>
 
     </li>
@@ -43,4 +106,4 @@ layout: page
   </ul>
 
 
-{%- endif -%}
+{%- endif -%} -->
