@@ -2,12 +2,14 @@
 layout: "series"
 series: "Mycelium"
 title: "Mycelium series"
-excerpt: Mycelia are a mass of branched, tubular filaments of fungi. They could be seen as helpful or destructive, friendly, or threatening.
+excerpt: Inspired by mycelia, a mass of branched, tubular filaments of fungi, these pieces combine 'natural' felted lambswool and contrasting hard, cast plaster-polymer components. Fungi do their work unseen and could be interpreted as  helpful or destructive, friendly, or threatening.
 thumbnail: assets/img/Mycelium03/small/Mycelium03_02.jpg
 ---
 
 <!--![Mycelium Sculptures](/assets/img/Mycelium_series_01.jpg){:class="img-responsive"}-->
 
-Mycelia are a mass of branched, tubular filaments of fungi. Essential for healthy soils and plant growth they also break down dead vegetable matter.
+Inspired by mycelia, a mass of branched, tubular filaments of fungi, these pieces combine 'natural' felted lambswool elements incorporated into or sitting in contrast to the hard, cast plaster-polymer components.
 
-Felted lambswool represents these 'natural' elements and contrast with the hard, cast plaster-polymer components and could be helpful or destructive, friendly, or threatening.
+Fungi are essential for healthy soils and plant growth they also break down dead vegetable matter, they do their work unseen and could be interpreted as either helpful or destructive, friendly, or threatening.
+
+Lambswool, Plaster-Polymer, Pigments

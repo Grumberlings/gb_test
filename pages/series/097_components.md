@@ -2,10 +2,10 @@
 layout: "series"
 series: "Components"
 title: "Components series"
-excerpt: The repeating elements, brightly coloured and polished surfaces might suggest the appearance of consumer products, but they are obviously hand crafted with each having individual elements and organic imperfections
+excerpt: The repeating components, with brightly coloured and polished surfaces might suggest the appearance of consumer products. However, each has individual properties and organic imperfections, displaying the marks of making and perhaps damage or wear. 
 thumbnail: assets/img/Components04/small/Components04_01.jpg
 ---
 
-Component parts produced in batches produces a range of options from which I can choose allows me to quite spontaneous in the creation of the final form.
+The repeating components, with brightly coloured and polished surfaces might suggest the appearance of consumer products. However, each has individual properties and organic imperfections, displaying the marks of making and perhaps damage or wear. 
 
-The repeating elements, brightly coloured and polished surfaces might suggest the appearance of consumer products. On closer inspection they are obviously hand crafted with each having individual elements and organic imperfections.
+Component parts are cast in batches and forms a pallet of options. Each unique piece slowly grows driven by the selection from this library and a response to the form and surface properties of the piece.

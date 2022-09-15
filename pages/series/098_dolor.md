@@ -2,18 +2,25 @@
 layout: "series"
 series: "Dolor"
 title: "Dolor"
+excerpt: Inspired by the notion that one's experiences and memories accumulate and seem to settle like layers of dust, forming a sort of strata. The poem Dolor by Theodore Roethke evokes this feeling and was an important inspiration.  All the pieces in this collection were constructed from a single discarded mattress. 
 thumbnail: assets/img/Old_work/Dolor/small/Dolor07.jpg
 ---
-<h5>
+
+
+Inspired by the notion that one's experiences and memories accumulate and seem to settle like layers of dust, forming a sort of strata. The poem Dolor by Theodore Roethke evokes this feeling and was an important inspiration.  All the pieces in this collection were constructed from a single discarded mattress. 
+
+Capoc, Fabric, Straw, Newspaper, Ashes. Shown displayed at Battersea Arts Centre, London 1996.
+
+<div>
+<h5 style="text-align: right">
 And I have seen dust from the walls of institutions,<br>
 Finer than flour, alive, more dangerous than silica,<br>
 Sift, almost invisible, through long afternoons of tedium,<br>
 Dropping a fine film on nails and delicate eyebrows,<br>
 </h5>
-<h5><i>Extract from Dolor by Theodore Roethke</i></h5>
+<h5 style="text-align: right"><i>Extract from Dolor by Theodore Roethke</i></h5>
+</div>
 
-
-Battersea Arts Centre, London 1996
 
 <div class="row">
 <div class="column">
