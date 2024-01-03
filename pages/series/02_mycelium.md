@@ -2,7 +2,7 @@
 layout: "series"
 series: "Mycelium"
 title: "Mycelium series"
-excerpt: Inspired by mycelia, a mass of branched, tubular filaments of fungi, these pieces combine 'natural' felted lambswool and contrasting hard, cast plaster-polymer components. Fungi do their work unseen and could be interpreted as  helpful or destructive, friendly, or threatening.
+excerpt: Inspired by mycelia, a mass of branched, tubular filaments of fungi, these pieces contrast 'natural' and inorganic components.
 thumbnail: assets/img/Mycelium03/small/Mycelium03_02.jpg
 ---
 

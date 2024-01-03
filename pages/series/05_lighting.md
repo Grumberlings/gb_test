@@ -2,10 +2,10 @@
 layout: "series"
 series: "Lighting"
 title: "Lighting"
-excerpt: Objects produced while working as an industrial designer displaying a fascination with the effect of change on objects. This change could be in the form of evolution, accretion, erosion, growth, or decay.
+excerpt: A series of pieces, produced while working as an industrial designer, display a continued fascination with the effect of change on objects.
 thumbnail: assets/img/Old_work/Lighting/small/Lighting04-Birmingham01.jpg
 ---
-This small selection of objects produced while working as an industrial designer display a fascination with the effect of change on objects. This change could be in the form of evolution, accretion, erosion, growth, or decay. 
+This small selection of pieces, produced while working as an industrial designer, display a continued fascination with the effect of change on objects. This change could be in the form of evolution, accretion, erosion, growth, or decay. 
 
 <div class="row">
 <div class="column">

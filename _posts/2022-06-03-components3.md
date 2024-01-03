@@ -12,6 +12,8 @@ thumbnail: assets/img/Components03/small/Components03_01.jpg
 
 ![Components 1 Sculpture](/assets/img/Components03/Components03_01.jpg){:class="img-responsive"}
 
+Jesmonite, Pigment. 0.2 x 0.1 x 0.2 m
+
 ![Components 1 Sculpture](/assets/img/Components03/Components03_02.jpg){:class="img-responsive"}
 
 ![Components 1 Sculpture](/assets/img/Components03/Components03_03.jpg){:class="img-responsive"}
