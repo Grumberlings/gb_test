@@ -3,7 +3,7 @@ layout: "series"
 series: "Accretion"
 title: "Accretion series"
 excerpt: This series investigates the passage of time using a repetitive build-up of material.
-thumbnail: assets/img/Accretion01/small/Accretion01_01.jpg
+thumbnail: assets/img/Accretion03/small/Accretion03_02.jpg
 ---
 
 This series investigates the passage of time using a repetitive build-up of material.
